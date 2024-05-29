@@ -1,4 +1,4 @@
-# coding_test
+// coding_test
 
 //왜 이건 틀리고
 #include <stdio.h>

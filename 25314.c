@@ -1,4 +1,4 @@
-# coding_test
+//coding_test
 #include <stdio.h>
 
 int main() {
